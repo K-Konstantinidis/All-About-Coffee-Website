@@ -93,3 +93,7 @@ video{
 	-webkit-filter:grayscale(100%);/* google chrome/windows edge*/
 	-moz-filter:grayscale(100%);/*mozzila browser*/
 }
+#color{
+	color:brown;
+	font-weight:bold;
+}
